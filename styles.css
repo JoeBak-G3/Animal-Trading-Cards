@@ -1,0 +1,41 @@
+.image {
+	width: 300px;
+	border: solid #ddd 1px;
+	
+}
+
+.interesting-fact {
+	font-style: italic;
+	
+}
+
+.info {
+	border: solid #ddd 1px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	
+}
+
+.main-div {
+	width: 300px;
+	border: solid #ddd 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	box-shadow: 5px 5px 5px 0px rgba(221,221,221,1);
+
+}
+
+body {
+	font-size: 1.25em;
+}
+
+ul li span {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+	
+}
